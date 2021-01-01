@@ -156,10 +156,10 @@ else if (text == '.owner'){
 conn.sendMessage(id, 'Owner rbs wa.me/+6289655478810' ,MessageType.text);
 }
 else if (text == 'Arif'){
-conn.sendMessage(id, 'Aku BOT nya Lynx' ,MessageType.text);
+conn.sendMessage(id, 'itu owner gua' ,MessageType.text);
 }
-else if (text == 'wawa'){
-conn.sendMessage(id, 'pacar owner ihh' ,MessageType.text);
+else if (text == 'Wawa'){
+conn.sendMessage(id, 'pacar owner gua ihh' ,MessageType.text);
 }
 else if (text == 'bangsat'){
 conn.sendMessage(id, 'toxic terdeteksi' ,MessageType.text);
